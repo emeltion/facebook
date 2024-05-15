@@ -1,0 +1,171 @@
+/*.homepage{
+    background-color: #f0f2f5;
+    width: 100%;
+    height: 600px;
+}
+.homepage h1{
+    color:#0866ff;
+    font-weight: bolder;
+}
+.homepage h4{
+    font-size: 40px;
+    
+
+}
+.card:hover card{
+   transform: scale(1.5)
+}
+*/
+.layer h1{
+    color:#0866ff;
+    font-weight: bolder;
+}
+.layer{
+    width: 100%;
+    height: 800px;
+    background-color: #f0f2f5;
+    
+    
+}
+.font{
+    width: 100%;
+    height: 1px;
+    background-color:  #92969c;
+}
+a{
+    text-decoration: none;
+}
+.caption:hover i{
+    cursor: pointer;
+    font-size: larger;
+    background-color: aqua;
+}
+.profilepage{
+    background-color: white;
+    display: flex;
+    z-index: 54545;
+}
+.navs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.search{
+    border-radius: 100px;
+  margin-left: 20px;
+  padding: 5px;
+  padding-right: 30px;
+  border-color:transparent;
+  background-color:#f0f2f5;
+}
+.profilepage{
+    background-color: black;
+}
+.navsicons:hover .icon{
+    cursor:pointer;
+    border-width: 50px;
+    
+}
+.layerprofilepage{
+    background-color:#f0f2f5 ;
+}
+.photohome{
+    height: 500px;
+}
+.btn{
+    color: black;
+    border: #f0f2f5;
+}
+.bttn:hover .btn{
+    color:white ;
+    background-color:#92969c ;
+}
+
+
+.emee{
+    width: 120px;
+    height: 120px;
+    bottom: 0;
+    margin-bottom: -60px;
+    margin-left: 10px;
+    
+}
+.emee img{
+    width: 100%;
+    height: 100%;
+    border-radius:50%;
+}
+
+.nameprofile:hover p{
+
+text-decoration: underline;
+cursor: pointer;
+}
+.line{
+    width: 100%;
+    height: 1px;
+    background-color: #92969c;
+
+}
+.photosearch{
+    width: 30px;
+    height: 30px;
+}
+.photosearch img{
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+}
+.searchinput{
+    border-radius: 100px;
+    padding: 5px;
+    padding-right: 200%;
+    border-color:transparent;
+    background-color:#f0f2f5;
+}    
+.btn:hover{
+    background-color: #92969c;
+
+}
+.btnp{
+    border-bottom: 5px solid rgb(78, 80, 207);
+}
+.photoos h5:hover{
+    cursor: pointer;
+    color: black;
+    border-bottom: 3px solid black;
+}
+
+.photooos{
+    width: 30%;
+    height:15%
+}
+.layerdark{
+    background-color: #F2F3F5;
+
+
+
+}
+.btnintro{
+    background-color: #e3e6e9;
+}
+.btnintro:hover{
+    background-color:#F2F3F5 ;
+    
+}
+.mainprofilepage{
+    display: none;
+    z-index: 54545;
+}
+.newpass{
+    display: none;
+    z-index: 55555555555555;
+}
+.newpass{
+    width: 100%;
+    height: 800px;
+    background-color: #f0f2f5;
+    
+    
+}
